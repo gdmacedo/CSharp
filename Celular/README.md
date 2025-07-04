@@ -9,7 +9,7 @@
 Leonardo Buta - Full-Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/CSharp/Celular/refs/heads/main/Imagens/0001.jpg" title="Sistema e Abstraindo um Celular">
+  <img src="https://raw.githubusercontent.com/gdmacedo/CSharp/refs/heads/main/Celular/Imagens/0001.jpg" title="Sistema e Abstraindo um Celular">
 </p>
 
 
